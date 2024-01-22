@@ -1,6 +1,5 @@
 # Всякое
-# Foobar
 
-Foobar is a Python library for dealing with word pluralization.
+DevOps: https://github.com/iu5git/DevOps
 
-## Installationff
+Курс по линуксу для сертификата RedHat: https://basis.gnulinux.pro/ru/
