@@ -1,3 +1,6 @@
 # Всякое
-DevOps: https://github.com/iu5git/DevOps\
-Куср по линкусу для сертификата REDHat: https://basis.gnulinux.pro/ru/
+# Foobar
+
+Foobar is a Python library for dealing with word pluralization.
+
+## Installationff
