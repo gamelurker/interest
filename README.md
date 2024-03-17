@@ -1,6 +1,7 @@
 # Всякое
 
 DevOps: https://github.com/iu5git/DevOps
+https://habr.com/ru/articles/800709/
 
 Курс по линуксу для сертификата RedHat: https://basis.gnulinux.pro/ru/
 
