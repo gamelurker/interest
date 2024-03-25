@@ -10,3 +10,5 @@ https://habr.com/ru/articles/800709/
 Куча всего по пентесту всего: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
 
 Заметки и интересные pages: https://hackmd.io/@Mart/S1ZZ1dv_q
+
+Курс по ОС: https://www.youtube.com/@abragin
