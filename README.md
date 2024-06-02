@@ -12,3 +12,5 @@ https://habr.com/ru/articles/800709/
 Заметки и интересные pages: https://hackmd.io/@Mart/S1ZZ1dv_q
 
 Курс по ОС: https://www.youtube.com/@abragin
+
+Сборник техник по LNX: https://reeves0x0.gitbook.io/linux-under-attack
