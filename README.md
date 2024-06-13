@@ -14,3 +14,5 @@ https://habr.com/ru/articles/800709/
 Курс по ОС: https://www.youtube.com/@abragin
 
 Сборник техник по LNX: https://reeves0x0.gitbook.io/linux-under-attack
+
+WritUp и разборы CVE: https://www.vicarius.io/vsociety/
