@@ -20,3 +20,8 @@ WritUp и разборы CVE: https://www.vicarius.io/vsociety/
 Курс ВШЭ по ОС: [https://caos2024.myltsev.ru/lectures/07-memory.html](https://caos2024.myltsev.ru/lectures/01-course.html)
 
 Общие вопросы для собеса в backend: https://backendinterview.ru/index.html
+
+***
+# DFIR
+https://mahmoud-shaker.gitbook.io/dfir-notes/key-email-headers-for-soc-analysts-and-dfir - заметки по DFIR-у
+https://dfir.ru/2021/01/10/standard_information-vs-file_name/ - МФТ метки
