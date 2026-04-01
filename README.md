@@ -25,3 +25,6 @@ WritUp и разборы CVE: https://www.vicarius.io/vsociety/
 # DFIR
 https://mahmoud-shaker.gitbook.io/dfir-notes/key-email-headers-for-soc-analysts-and-dfir - заметки по DFIR-у
 https://dfir.ru/2021/01/10/standard_information-vs-file_name/ - МФТ метки
+
+***
+https://github.com/mandiant/flare-learning-hub?tab=readme-ov-file - обучалка риверсу от гугла
